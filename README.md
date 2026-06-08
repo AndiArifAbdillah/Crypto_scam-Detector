@@ -190,8 +190,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👤 Author
 
 ** Arif**
-- GitHub: [@username](https://github.com/username)
-- Email: your.email@example.com
+- GitHub: [@username](https://github.com/AndiArifAbdillah)
+- Email: andiarifabc@gmail.com
 
 ## 🙏 Acknowledgments
 
