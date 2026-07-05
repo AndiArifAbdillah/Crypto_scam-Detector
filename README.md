@@ -202,7 +202,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Support
 
 Jika ada pertanyaan atau masalah:
-- 📧 Email: your.email@example.com
+- 📧 Email: andiarifabc@gmail.com.com
 - 🐛 Issues: [GitHub Issues](https://github.com/username/crypto-scam-detector/issues)
 - 💬 Discussion: [GitHub Discussions](https://github.com/username/crypto-scam-detector/discussions)
 
